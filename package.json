@@ -19,7 +19,7 @@
   "author": "Taylor Li",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/TaylorDurden/jobber-shared.git"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
